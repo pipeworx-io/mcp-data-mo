@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-mo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Missouri Open Data (data.mo.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ac74e84e019e8d9fe21ab26dbd30491d1cb3848c559ce7b00763004dcb360ee6",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-a4d703960c1f896ae7770bdbb59e0cd4c23c65398f4841f1f7ecebcdeaf38096",
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
